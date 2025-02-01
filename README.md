@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kanylo
+- 👋 Hi, I’m @nuller52
 - 👀 I’m interested in GameDev and Software Engineering 
 - 🌱 I’m currently learning Godot 4
 - 💞️ I’m looking to collaborate on GameJams or small projects
